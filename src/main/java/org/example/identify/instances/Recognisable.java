@@ -1,5 +1,7 @@
-package org.example.identify;
+package org.example.identify.instances;
 
+
+import org.example.identify.recognizers.RecognitionInstrument;
 
 /**
  * <p>This interface provides tools of instance recognition for this interface implementing instances.</p>

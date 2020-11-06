@@ -1,4 +1,4 @@
-package org.example.identify;
+package org.example.identify.recognizers;
 
 public interface RecognitionInstrument {
 }
