@@ -1,4 +1,4 @@
-## Welcom in the {@link Identify} project
+## Welcom in the {@link [Identify](https://github.com/pvlvsoft/Identify)} project
 
 You can use the [editor on GitHub](https://github.com/pvlvsoft/Identify/edit/gh-pages/index.md) to maintain and preview the content for your website in Markdown files.
 
