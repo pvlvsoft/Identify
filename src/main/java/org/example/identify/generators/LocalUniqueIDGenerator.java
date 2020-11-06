@@ -1,33 +1,19 @@
 package org.example.identify.generators;
 
 /**
- * <p></p>
+ * <p>This class provides Locally unique ID generator instances responsible for the unique ID generation.</p>
  *
- * <p></p>
+ * <p>These can be used as an local instance counter of successfully created instances.</p>
  *
  * @author Vojtech Pavlu
  * @version 2020-11-06
  */
 public class LocalUniqueIDGenerator implements IDGenerator {
 
-    /* STATIC INIT BLOCK ******************************************/
-
-
-
-
-    /* INSTANCE INIT BLOCK ****************************************/
-
-
-
 
     /* INSTANCE VARIABLES *****************************************/
 
     private long id;
-
-
-    /* STATIC VARIABLES *******************************************/
-
-
 
 
     /* CONSTRUCTORS ***********************************************/

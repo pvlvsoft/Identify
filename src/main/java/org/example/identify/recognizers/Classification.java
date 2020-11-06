@@ -10,7 +10,10 @@ package org.example.identify.recognizers;
  */
 public interface Classification extends RecognitionInstrument {
 
-
-
+    /**
+     * <p>Gives back {@link String}-formed classificaton name.</p>
+     *
+     * @return  the {@link String}-formed classification interpretation
+     */
     public String getClassification();
 }
